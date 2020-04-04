@@ -1,0 +1,15 @@
+#Sample number, nick name and features:
+#Id; name; heads; eyes; mouths; legs; tails; horns; rings; thorns; scales
+#List of exemplars:
+void
+#List of samples:
+26sg7; alien; 9; 8; 2; 12; 2; 1; 71; 235; 312
+jeu73g6s; weirdInsect; 1; 2; 3; 0; 4; 12; 5; 34; 12
+8h6tsms; bigfly; 1; 1; 67; 32; 3; 2; 32; 175; 73
+nbsbb; roach; 3; 9; 14; 23; 8; 25; 42; 182; 201
+ff44578jhT; strangeBug; 2; 7; 2; 4; 2; 1; 71; 235; 312
+msksu28dn28; 8eyes; 10; 8; 2; 5; 41; 5; 57; 196; 86
+82571930; bigbig; 1; 4; 3; 5; 4; 1; 32; 123; 520
+0192ns2; nonamebug; 13; 21; 5; 76; 44; 9; 66; 100; 99
+msn128s; ladybug; 9; 4; 16; 3; 9; 10; 49; 77; 300
+38s62nbd; xpto; 2; 3; 1; 4; 3; 0; 12; 6; 300
